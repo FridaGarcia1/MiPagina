@@ -1,0 +1,89 @@
+
+#menu li{
+    text-align: center;
+    list-style: none;
+    color: #000;
+    display:inline;
+    background: rgb(201, 81, 81);
+    margin: 0 20px;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    }
+
+
+
+#encabezado{
+    color: white;
+    border-radius: 30px;
+    border-color: #000;
+    border-bottom: 30;
+    width: 80%;
+    background-image: url(../MiPaginaWeb/Imagenes/pl.jpg);
+    padding: 10px 10px 10px 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+
+#section1{
+    float:left;
+    width: 38%;
+    height: 560px;
+    margin: 0 0 5% 7%;
+    background-image:url(../MiPaginaWeb/Imagenes/o.jpg) ;
+    background-size: 100%;
+    padding: 10px 10px 50 10px;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+#section2{
+    float:right;
+    text-align: left;
+    width: 38%;
+    height: 560px;
+    margin: 0 0 5% 10%;
+    background-image:url(../MiPaginaWeb/Imagenes/o.jpg) ;
+    background-size: 100%;
+    padding: 10px 10px 50 10px;
+    color: black;
+}
+
+
+#imagenes{
+    width: 38%;
+    height: 200px; 
+    
+
+}
+
+
+#centrar1{
+    text-align: center;
+    color:rgb(86, 207, 86);
+    font-style:oblique;
+    font-style: 20px;
+    font-weight: bold;
+}
+
+
+#centrar2{
+    text-align: justify;
+    color:rgb(86, 207, 86);
+    font-style: italic;
+    font-style: 10px;
+    font-weight: bold;
+}
+
+
+#encabezado2{
+    color: black;
+    border-radius: 30px;
+    border-color: #000;
+    border-bottom: 30;
+    width: 30%;
+    background-color: azure;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
